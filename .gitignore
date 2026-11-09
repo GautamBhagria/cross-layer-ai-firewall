@@ -1,0 +1,12 @@
+# Cache & Compiled code
+__pycache__/
+*.pyc
+
+# Local Data and System Files
+.DS_Store
+.vscode/
+.idea/
+
+# Deep Learning Models (Generating these locally)
+models/raw_model/
+
